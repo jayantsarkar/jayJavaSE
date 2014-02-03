@@ -7,15 +7,14 @@ package com.jayant.java;
  * @author jasarkar
  *
  */
-public class HelloWorld23 {
+public class HelloWorld34 {
 
 	/**
 	 * 
 	 */
-	public HelloWorld23() {
+	public HelloWorld34() {
 		// TODO Auto-generated constructor stub
-		System.out.println("Inside HelloWorld2() constructor");
-		//Hello
+		System.out.println("HelloWorld34");
 	}
 
 	/**
@@ -23,7 +22,7 @@ public class HelloWorld23 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("HelloWorld2");
+		HelloWorld34 helloWorld34 = new HelloWorld34();
 	}
 
 }
